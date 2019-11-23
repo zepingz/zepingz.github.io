@@ -1,0 +1,6 @@
+@inproceedings{Zhan2018RetrievingGS,
+  title={Retrieving Game States with Moment Vectors},
+  author={Zeping Zhan and Adam M. Smith},
+  booktitle={AAAI Workshops},
+  year={2018}
+}

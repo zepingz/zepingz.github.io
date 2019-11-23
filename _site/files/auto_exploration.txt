@@ -1,0 +1,10 @@
+@inproceedings{DBLP:conf/aaai/ZhanAS19,
+  author={Zeping Zhan and Batu Aytemiz and Adam M. Smith},
+  title={Taking the Scenic Route: Automatic Exploration for Videogames},
+  year={2019},
+  cdate={1546300800000},
+  pages={26-34},
+  url={http://ceur-ws.org/Vol-2313/KEG_2019_paper_9.pdf},
+  booktitle={KEG@AAAI},
+  crossref={conf/aaai/2019keg}
+}

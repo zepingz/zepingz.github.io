@@ -1,0 +1,6 @@
+@inproceedings{Zhang2018CrawlingIA,
+  title={Crawling, indexing, and retrieving moments in videogames},
+  author={Xiaoxuan Zhang and Zeping Zhan and Misha Holtz and Adam M. Smith},
+  booktitle={FDG},
+  year={2018}
+}
