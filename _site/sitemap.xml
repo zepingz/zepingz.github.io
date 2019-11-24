@@ -80,6 +80,9 @@
 <loc>http://localhost:4000/experience/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/games/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/markdown/</loc>
 </url>
 <url>

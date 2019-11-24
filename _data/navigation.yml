@@ -12,8 +12,8 @@ main:
   - title: "Experience"
     url: /experience/
 
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Games"
+    url: /games/
 
   - title: "Misc"
     url: /misc/
