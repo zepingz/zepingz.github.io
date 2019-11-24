@@ -24,4 +24,4 @@ author_profile: true
   - [Road Trip](./roadtrip)
   - [Santa Cruz](./santa_cruz)
 
-- My favorite author is [Roberto Bolaño](https://en.wikipedia.org/wiki/Roberto_Bola%C3%B1o)
+- My favorite author is [Roberto Bolaño](https://en.wikipedia.org/wiki/Roberto_Bola%C3%B1o).
