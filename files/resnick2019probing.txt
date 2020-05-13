@@ -1,0 +1,8 @@
+@misc{resnick2019probing,
+    title={Probing the State of the Art: A Critical Look at Visual Representation Evaluation},
+    author={Cinjon Resnick and Zeping Zhan and Joan Bruna},
+    year={2019},
+    eprint={1912.00215},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}

@@ -15,6 +15,7 @@ Work Experience
 
 Teaching
 =====
+- *Teaching Assistant* for CSCI-UA.0480-​001 Special Topics: Computer Vision, Spring 2020
 - *Graduate Teaching Assistant* for CSCI-GA.3033-​012 Vision Meets Machine Learning, Fall 2019
 
 

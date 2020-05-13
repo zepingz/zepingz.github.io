@@ -7,14 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-**Probing the State of the Art: A Critical Look at Visual Representation Evaluation**
+[**Probing the State of the Art: A Critical Look at Visual Representation Evaluation**](https://arxiv.org/abs/1912.00215)
 <br/>Cinjon Resnick, **Zeping Zhan**, Joan Bruna
-<br/>Under submission at CVPR
+<br/>arXiv, 2019
+<br/>[[paper](https://arxiv.org/pdf/1912.00215.pdf)] [[BibTex](../../files/resnick2019probing.txt)]
 
 [**Translating Affective Touch into Text**](https://dl.acm.org/citation.cfm?id=3313015)
 <br/>Daniel Shapiro, **Zeping Zhan**, Peter Cottrell, Katherine Isbister
 <br/>CHI, 2019
-<br/>[[paper](../../files/touch_to_text.pdf)] [[BibTex](../../files/touch_to_text.txt)]
+<br/>[[paper](https://dl.acm.org/doi/10.1145/3290607.3313015)] [[BibTex](../../files/touch_to_text.txt)]
 
 [**Taking the scenic route: Automatic exploration for videogames**](https://arxiv.org/abs/1812.03125)
 <br/>**Zeping Zhan**, Batu Aytemiz, Adam M Smith
