@@ -17,11 +17,9 @@ author_profile: true
   <iframe frameborder="0" width="450" height="60" src="https://drive.google.com/file/d/1jyfkGss62PjIXgAmCsf1k81CYw7Y6gHA/preview"> </iframe>
   <iframe frameborder="0" width="450" height="60" src="https://drive.google.com/file/d/1lpVtqDUyFWVQyXWEtPJEtkmQjCF0-QyZ/preview"> </iframe>
 
-- Sometimes I take pictures with my [Yashica T4](https://www.lomography.com/magazine/269254-lomopedia-yashica-t4).
+- Sometimes I take pictures with my Yashica T4.
   - [China](./china)
   - [Thailand](./thailand)
   <!-- - [Friends](./friends) -->
   - [Road Trip](./roadtrip)
   - [Santa Cruz](./santa_cruz)
-
-- My favorite author is [Roberto Bolaño](https://en.wikipedia.org/wiki/Roberto_Bola%C3%B1o).
