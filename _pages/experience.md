@@ -7,6 +7,11 @@ author_profile: true
 
 Work Experience
 =====
+- *Research Engineer*, **Kooick Inc**, Jun 2020 ~ Present
+  - Designed and trained a deep neural network model for object detection using a hierarchy of classifiers.
+  - Collected and managed an object detection and segmentation dataset.
+  - Studied and implemented a range of few-shot object detection methods.
+
 - *Junior Specialist*, **University of California Santa Cruz**, Oct 2017 ~ Aug 2018
   - Designed and trained a deep convolutional neural network for which the bottleneck layer formed the vector representation used in a retrieval system.
   - Collaborated in a team to implement a visual search engine.
