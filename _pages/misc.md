@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-- I play guitar, bass, piano and durms. I used to be the guitarist of a  Math-Rock band called Nein or Gas Mus (it's German) and here is a song we recorded.
+- I play guitar, bass, piano and durms. I was the guitarist of a  Math-Rock band called Nein or Gas Mus (it's German) and here is a song we recorded.
   <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=785572531/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://qiiisnacksrecords.bandcamp.com/album/nowhere-is-now-here">.Nowhere is now here by 無高潮 Nein or Gas Mus</a></iframe>
 
 - I once composed the music for a UCSC student horror game project.
